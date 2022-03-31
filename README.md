@@ -30,7 +30,7 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/IncredibleHacker/insta-hack`
+* `git clone https://github.com/Transmetal/insta-hack`
 * `ls`
 * `cd insta-hack`
 * `pip3 install -r requirements.txt`
@@ -43,17 +43,9 @@ All in one Instagram hacking tool available (Insta information gathering, Insta 
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/IncredibleHacker/insta-hack`
+* `git clone https://github.com/Transmetal/insta-hack`
 * `ls`
 * `cd insta-hack`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash insta-hack.sh`
-
-## Screenshot:
-<br>
-<p align="center">
-<img width="95%" src="https://github.com/IncredibleHacker/insta-hack/blob/main/Ig_information_gathering/Core_files/IMG_20210725_122737.jpg"\>
-
-## Warning:
-#### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
